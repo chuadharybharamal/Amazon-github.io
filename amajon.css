@@ -1,0 +1,291 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.hedar {
+    background-color: #131921;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 70px;
+
+}
+
+.logo {
+    padding: 10px;
+    height: 49px;
+
+    width: 99px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.border:hover {
+
+    border: 1.5px solid white;
+}
+
+.location {
+    padding: 10px;
+    color: white;
+    display: flex;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.loc {
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.serch {
+    display: flex;
+    margin-left: 40px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.inpA {
+    border: none;
+    width: 500px;
+}
+
+.selecta {
+    background-color: rgb(206, 197, 197);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 11px;
+    border: none;
+}
+
+.selecta:hover {
+    background-color: gray;
+}
+
+input {
+    padding: 11px;
+    border: none;
+}
+
+.search {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 10px;
+    background-color: rgb(255, 238, 0);
+    border: none;
+}
+
+.search:hover {
+    background-color: orange;
+}
+
+.languag {
+    padding: 10px;
+    display: flex;
+}
+
+.flag {
+    margin-left: 20px;
+    width: 20px;
+    height: 15px;
+}
+
+.selectb {
+    background-color: transparent;
+    color: white;
+    border: none;
+    font-size: 15px;
+}
+
+.account {
+    font-size: 12px;
+    margin-left: 15px;
+    padding: 10px;
+    color: white;
+}
+
+.selectc {
+    background-color: transparent;
+    color: white;
+    border: none;
+    font-size: 12px;
+    font-weight: 900px;
+    margin-left: -3px;
+}
+
+.ord {
+    padding: 10PX;
+    color: white;
+    margin-left: 15px;
+}
+
+.cart {
+    color: white;
+    height: 70px;
+
+    margin-left: 12px;
+}
+
+.shopping {
+    display: flex;
+    color: white;
+    align-items: center;
+}
+
+.pa {
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.secondbox {
+    width: 100%;
+    height: 50px;
+
+    background-color: #3d3b3b;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.bars {
+    margin-right: 10px;
+
+    margin-left: 10px;
+}
+
+.secondp {
+    padding: 10PX;
+    margin-left: 40px;
+    font-weight: 900px;
+}
+
+.ALL {
+    padding: 10PX;
+}
+
+.thirdbox {
+    width: 100%;
+    height: 40px;
+    color: black;
+    background-color: #ece8e8;
+    display: flex;
+    align-items: center;
+}
+
+.thirdp {
+    margin-left: 10px;
+    color: black;
+    font-weight: bolder;
+}
+
+.thirdp:hover {
+    text-decoration: underline red 2px solid;
+}
+
+.thirdpp {
+    padding: 10PX;
+    margin-left: 30px;
+}
+
+.thirdpp:hover {
+    text-decoration: underline red 2px solid;
+
+}
+
+.today {
+    padding: 20px;
+}
+
+.forthbox {
+    display: flex;
+    width: 100%;
+}
+
+iframe {
+    padding-right: 20px;
+}
+
+.forthboximg {
+    margin-right: 65px;
+}
+
+.fivebnox {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 170px;
+    background-color: rgb(234, 237, 237);
+    margin-top: 20px;
+}
+
+.fivepic {
+    width: 100px;
+    align-items: center;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.fivepic:hover {
+    border: 1px solid;
+}
+
+.fivepre {
+    align-items: center;
+    margin-left: 40px;
+}
+
+.selectbox {
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    margin-right: 20px;
+}
+
+.selectd {
+    margin-right: 20px;
+    margin-top: 10px;
+    box-shadow: 0px 2px 5px;
+    border-radius: 5px;
+    background-color: rgb(234, 237, 237);
+}
+
+.sixbox {
+    margin-top: 20PX;
+    width: 100%;
+    height: auto;
+    display: flex;
+
+
+
+}
+
+.six1 {
+    padding: 10px;
+
+    border: 1px solid;
+}
+
+.sixp {
+    color: #007185;
+    font-weight: bolder;
+}
+
+.firstrow {
+    padding: 5px;
+    align-items: center;
+    border: 1px solid;
+    width: 380px;
+    height: 392px;
+}
+.siximgdi{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+mark{
+    background-color:rgb(204, 12, 57);
+    padding: 3px;
+    color: white;
+}
